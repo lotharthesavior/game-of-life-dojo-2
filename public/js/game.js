@@ -1,13 +1,14 @@
 
 var gridSize = [14, 14];
 var padding = 2;
+var gameon = false;
 
 function getRowName(i) {
     return 'row-' + i;
 }
 
 function getColName(i, j) {
-    return 'col-' + i + '-' + j;
+    return 'col-' + i + ',' + j;
 }
 
 function getCellState(i, j) {
@@ -51,33 +52,27 @@ function buildGrid() {
 
         document.getElementById('game').appendChild(row);
     }
+
+    document.getElementById('togglegame').addEventListener('click', () => {
+        gameon = !gameon;
+    });
 }
 
 function getCurrentState() {
     let data = {};
+
     for (let cell of document.getElementsByClassName('col')) {
         if (cell.getAttribute('state') !== 'alive') {
             continue;
         }
 
-        // data.push({
-        //     row: parseInt(cell.getAttribute('row')),
-        //     col: parseInt(cell.getAttribute('col')),
-        //     state: cell.getAttribute('state'),
-        // });
-
-        // col,row
-        data[cell.getAttribute('row') + ',' + cell.getAttribute('col')] ={
+        data[cell.getAttribute('row') + ',' + cell.getAttribute('col')] = {
             row: parseInt(cell.getAttribute('row')),
             col: parseInt(cell.getAttribute('col')),
             state: cell.getAttribute('state'),
         };
-
-        // if (!data[parseInt(cell.getAttribute('row'))]) {
-        //     data[parseInt(cell.getAttribute('row'))] = {};
-        // }
-        // data[parseInt(cell.getAttribute('row'))][parseInt(cell.getAttribute('col'))] = cell.getAttribute('state') === 'alive' ? true : false;
     };
+
     return data;
 }
 
@@ -94,7 +89,10 @@ function startWsConnection(name) {
     });
 
     socket.addEventListener('message', function (e) {
-        console.log(e);
+        let parsedData = JSON.parse(e.data).data;
+        Object.keys(parsedData).map((key) => {
+            document.getElementById('col-' + key).setAttribute('state', parsedData[key].state);
+        });
     });
 
     socket.addEventListener('close', function (e) {
@@ -103,6 +101,10 @@ function startWsConnection(name) {
     });
 
     let interval = setInterval(() => {
+        if (!gameon) {
+            return;
+        }
+
         socket.send(JSON.stringify({
             action: "new-state",
             data: {
@@ -110,7 +112,7 @@ function startWsConnection(name) {
                 gridSize: gridSize,
             },
         }));
-    }, 2000);
+    }, 1000);
 }
 
 window.onload = (event) => {

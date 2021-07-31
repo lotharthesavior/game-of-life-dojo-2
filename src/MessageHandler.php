@@ -16,15 +16,17 @@ class MessageHandler
 
     public function __invoke()
     {
+        $parsedData = json_decode($this->frame->data, true);
 
-        // var_dump($this->frame->data);
+        // var_dump($this->frame);
+        // var_dump(json_decode($this->frame->data, true));
         // $this->server
 
-        $grid = new Grid(json_decode($this->frame, true));
+        $grid = new Grid($parsedData['data']['grid']);
 
         $this->server->push($this->frame->fd, json_encode([
             'message' => 'new-state',
-            // 'data' => $grid->process(),
+            'data' => $grid->process(),
         ]));
     }
 }
