@@ -1,0 +1,1231 @@
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+string(3731) "{"action":"new-state","data":[{"row":"9","col":"9","state":"dead"},{"row":"9","col":"8","state":"dead"},{"row":"9","col":"7","state":"dead"},{"row":"9","col":"6","state":"dead"},{"row":"9","col":"5","state":"dead"},{"row":"9","col":"4","state":"dead"},{"row":"9","col":"3","state":"dead"},{"row":"9","col":"2","state":"dead"},{"row":"9","col":"1","state":"dead"},{"row":"9","col":"0","state":"dead"},{"row":"8","col":"9","state":"dead"},{"row":"8","col":"8","state":"dead"},{"row":"8","col":"7","state":"dead"},{"row":"8","col":"6","state":"dead"},{"row":"8","col":"5","state":"dead"},{"row":"8","col":"4","state":"dead"},{"row":"8","col":"3","state":"dead"},{"row":"8","col":"2","state":"dead"},{"row":"8","col":"1","state":"dead"},{"row":"8","col":"0","state":"dead"},{"row":"7","col":"9","state":"dead"},{"row":"7","col":"8","state":"dead"},{"row":"7","col":"7","state":"dead"},{"row":"7","col":"6","state":"dead"},{"row":"7","col":"5","state":"dead"},{"row":"7","col":"4","state":"dead"},{"row":"7","col":"3","state":"dead"},{"row":"7","col":"2","state":"dead"},{"row":"7","col":"1","state":"dead"},{"row":"7","col":"0","state":"dead"},{"row":"6","col":"9","state":"dead"},{"row":"6","col":"8","state":"dead"},{"row":"6","col":"7","state":"dead"},{"row":"6","col":"6","state":"dead"},{"row":"6","col":"5","state":"dead"},{"row":"6","col":"4","state":"dead"},{"row":"6","col":"3","state":"dead"},{"row":"6","col":"2","state":"dead"},{"row":"6","col":"1","state":"dead"},{"row":"6","col":"0","state":"dead"},{"row":"5","col":"9","state":"dead"},{"row":"5","col":"8","state":"dead"},{"row":"5","col":"7","state":"dead"},{"row":"5","col":"6","state":"dead"},{"row":"5","col":"5","state":"dead"},{"row":"5","col":"4","state":"dead"},{"row":"5","col":"3","state":"dead"},{"row":"5","col":"2","state":"dead"},{"row":"5","col":"1","state":"dead"},{"row":"5","col":"0","state":"dead"},{"row":"4","col":"9","state":"dead"},{"row":"4","col":"8","state":"dead"},{"row":"4","col":"7","state":"dead"},{"row":"4","col":"6","state":"dead"},{"row":"4","col":"5","state":"dead"},{"row":"4","col":"4","state":"dead"},{"row":"4","col":"3","state":"dead"},{"row":"4","col":"2","state":"dead"},{"row":"4","col":"1","state":"dead"},{"row":"4","col":"0","state":"dead"},{"row":"3","col":"9","state":"dead"},{"row":"3","col":"8","state":"dead"},{"row":"3","col":"7","state":"dead"},{"row":"3","col":"6","state":"dead"},{"row":"3","col":"5","state":"dead"},{"row":"3","col":"4","state":"dead"},{"row":"3","col":"3","state":"dead"},{"row":"3","col":"2","state":"dead"},{"row":"3","col":"1","state":"dead"},{"row":"3","col":"0","state":"dead"},{"row":"2","col":"9","state":"dead"},{"row":"2","col":"8","state":"dead"},{"row":"2","col":"7","state":"dead"},{"row":"2","col":"6","state":"dead"},{"row":"2","col":"5","state":"dead"},{"row":"2","col":"4","state":"dead"},{"row":"2","col":"3","state":"dead"},{"row":"2","col":"2","state":"dead"},{"row":"2","col":"1","state":"dead"},{"row":"2","col":"0","state":"dead"},{"row":"1","col":"9","state":"dead"},{"row":"1","col":"8","state":"dead"},{"row":"1","col":"7","state":"dead"},{"row":"1","col":"6","state":"dead"},{"row":"1","col":"5","state":"dead"},{"row":"1","col":"4","state":"dead"},{"row":"1","col":"3","state":"dead"},{"row":"1","col":"2","state":"dead"},{"row":"1","col":"1","state":"dead"},{"row":"1","col":"0","state":"dead"},{"row":"0","col":"9","state":"dead"},{"row":"0","col":"8","state":"dead"},{"row":"0","col":"7","state":"dead"},{"row":"0","col":"6","state":"dead"},{"row":"0","col":"5","state":"dead"},{"row":"0","col":"4","state":"dead"},{"row":"0","col":"3","state":"dead"},{"row":"0","col":"2","state":"dead"},{"row":"0","col":"1","state":"dead"},{"row":"0","col":"0","state":"dead"}]}"
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"dat...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+
+Fatal error: Uncaught ArgumentCountError: Swoole\WebSocket\Server::push() expects at least 2 arguments, 1 given in /app/src/MessageHandler.php:20
+Stack trace:
+#0 /app/src/MessageHandler.php(20): Swoole\WebSocket\Server->push('{"message":"mes...')
+#1 /app/ws.php(45): App\MessageHandler->__invoke()
+#2 {main}
+  thrown in /app/src/MessageHandler.php on line 20
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+Connection close: 1
+connection open: 2
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+Connection close: 2
+connection open: 3
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:23
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 23
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+string(32) "{"action":"new-state","data":[]}"
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:24
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 24
+string(32) "{"action":"new-state","data":[]}"
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:24
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 24
+string(32) "{"action":"new-state","data":[]}"
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:24
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 24
+string(32) "{"action":"new-state","data":[]}"
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:24
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 24
+string(32) "{"action":"new-state","data":[]}"
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:24
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 24
+string(32) "{"action":"new-state","data":[]}"
+
+Fatal error: Uncaught Error: Class "Grid" not found in /app/src/MessageHandler.php:24
+Stack trace:
+#0 /app/ws.php(45): App\MessageHandler->__invoke()
+#1 {main}
+  thrown in /app/src/MessageHandler.php on line 24
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(32) "{"action":"new-state","data":[]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+string(69) "{"action":"new-state","data":[{"row":"4","col":"3","state":"alive"}]}"
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+string(32) "{"action":"new-state","data":[]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+string(65) "{"action":"new-state","data":[{"row":4,"col":3,"state":"alive"}]}"
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+connection open: 1
+Connection close: 1
+connection open: 2
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+Connection close: 2
+connection open: 3
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+Connection close: 3
+connection open: 4
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+
+Parse error: syntax error, unexpected token ",", expecting variable in /app/src/Grid.php on line 21
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
+Swoole WebSocket Server is started at http://127.0.0.1:8181
