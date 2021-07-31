@@ -1,4 +1,4 @@
-# Game Of Live
+# Game Of Life
 
 This is a version build just as a dojo, build with JS and PHP. The rules are analyzed in the backend, and the communication is via WebSockets.
 
