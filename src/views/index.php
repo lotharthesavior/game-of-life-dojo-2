@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>My Form</title>
+	<title>Game of Life</title>
 
 	<link rel="stylesheet" href="css/style.css" />
 </head>
