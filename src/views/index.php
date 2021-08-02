@@ -10,7 +10,10 @@
 
 	<h1>Game of Life</h1>
 
-	<input type="button" id="togglegame" value="Toggle Game">
+	<div style="display:flex;">
+		<input type="button" id="togglegame" value="Toggle Game">
+		<input type="button" id="randomgame" value="Generate Random">
+	</div>
 
 	<div id="game"></div>
 

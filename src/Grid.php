@@ -2,16 +2,20 @@
 
 namespace App;
 
+use Co;
+
 class Grid
 {
     /** @var array */
     protected $data;
+    protected $grid;
     
     protected $newData;
          
-    public function __construct(array $data)
+    public function __construct(array $data, $grid)
     {
         $this->data = $data;
+        $this->grid = json_decode($grid->get(GLOBAL_GRID_SIZE_KEY)['gridsize'], true);
         $this->fillDeadNeighbours();
     }
     
@@ -62,13 +66,20 @@ class Grid
     
     private function getNeighbours($i, $j): array
     {
-        //$i = row
-        // $j = col
         $response = [];
         $alive = 0;
-        
-        for ($x = $i -1; $x <= $i+1; $x++) {
-            for ($y = $j-1; $y <= $j+1; $y++) {
+            
+        for ($x = $i-1; $x < $i + 1; $x++) {
+            for ($y = $j-1; $y < $j + 1; $y++) {
+                // avoid non-existent
+                if (
+                    (($this->grid[0] - 1) < $x || $x < 0)
+                    || (($this->grid[1] - 1) < $y || $y < 0)
+                ) {
+                    continue;
+                }
+
+                // avoid itself
                 if ($x == $i && $j == $y) {
                     continue;
                 }

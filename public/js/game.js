@@ -56,6 +56,17 @@ function buildGrid() {
     document.getElementById('togglegame').addEventListener('click', () => {
         gameon = !gameon;
     });
+
+    document.getElementById('randomgame').addEventListener('click', () => {
+        randomGrid();
+    });
+}
+
+function randomGrid() {
+    for (let cell of document.getElementsByClassName('col')) {
+        let random_boolean = Math.random() < 0.5;
+        cell.setAttribute('state', random_boolean ? 'alive' : 'dead');
+    }
 }
 
 function getCurrentState() {
@@ -80,17 +91,20 @@ function startWsConnection(name) {
     const socket = new WebSocket('ws://localhost:8181');
 
     socket.addEventListener('open', function (e) {
-        // socket.send(JSON.stringify({
-        //     action: 'start-game',
-        //     data: {
-        //         gridSize: gridSize
-        //     }
-        // }));
+        socket.send(JSON.stringify({
+            action: 'start-game',
+            data: {
+                gridSize: gridSize
+            }
+        }));
     });
 
     socket.addEventListener('message', function (e) {
         let parsedData = JSON.parse(e.data).data;
         Object.keys(parsedData).map((key) => {
+            if (document.getElementById('col-' + key) == null) {
+                console.log(key);
+            }
             document.getElementById('col-' + key).setAttribute('state', parsedData[key].state);
         });
     });

@@ -14,5 +14,7 @@ This is how it looks like:
 ## How to Run
 
 ```shell
-sh start.sh
+docker-compose up
 ```
+
+Access the service running at http://localhost:8080.

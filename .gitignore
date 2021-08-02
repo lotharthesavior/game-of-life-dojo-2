@@ -1,3 +1,5 @@
 vendor
 *pid
-
+output-ws.log
+output.log
+supervisord.log

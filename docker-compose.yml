@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  game:
+    build:
+      context: .
+    volumes:
+      - .:/app
+    ports:
+      - 8181:8181
+      - 8080:8080

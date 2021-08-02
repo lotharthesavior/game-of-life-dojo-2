@@ -7,11 +7,22 @@ use Swoole\Http\Request;
 use Swoole\WebSocket\Frame;
 use App\MessageHandler;
 
-$users = new Swoole\Table(1024);
-$users->column('name', Swoole\Table::TYPE_STRING, 64);
-$users->create();
+if (!defined('GLOBAL_GRID_SIZE_KEY')) {
+    define('GLOBAL_GRID_SIZE_KEY', 1);
+}
+
+$grid = new Swoole\Table(1024);
+$grid->column('gridsize', Swoole\Table::TYPE_STRING, 64);
+$grid->create();
 
 $server = new Server("0.0.0.0", 8181);
+
+$server->set([
+    'reactor_num' => 8,
+    'worker_num' => 8,
+    'enable_coroutine' => true,
+    'max_coroutine' => 3000,
+]);
 
 $server->on("Start", function(Server $server) {
     $pid_file = __DIR__ . '/ws-server-pid';
@@ -26,23 +37,12 @@ function report_missing_name($server, $fd) {
     $server->disconnect($fd, 400, 'Please, try again informing your name!');
 }
 
-$server->on('Open', function(Server $server, Request $request) use ($users) {
+$server->on('Open', function(Server $server, Request $request) {
     echo "connection open: {$request->fd}\n";
-
-    // $users->set($request->fd, ['name' => $parsedQuery['name']]);
 });
 
-$server->on('Message', function(Server $server, Frame $frame) use ($users) {
-    // echo "received message: {$frame->data}\n";
-
-    // foreach($server->connection_list(0) as $fd) {
-    //     $server->push($fd, json_encode([
-    //         'name' => $users->get($frame->fd, 'name'), 
-    //         'message' => $frame->data,
-    //     ]));
-    // }
-    
-    (new MessageHandler($server, $frame))();
+$server->on('Message', function(Server $server, Frame $frame) use ($grid) {
+    (new MessageHandler($server, $frame, $grid))();
 });
 
 $server->on('Close', function(Server $server, int $fd) {
